@@ -1,0 +1,103 @@
+/*body{
+    background-image: url(pic.png);
+    background-size: cover;
+    margin:50px 0px; padding: 55px;
+    text-align:-webkit-center;
+    align:center;
+} 
+
+.dan { 
+
+   position: relative;
+          width: 400px;
+          height: 310px;
+          background: transparent;
+          border: 2px solid rgba(255, 255, 255, 0.56);
+          backdrop-filter:  blur(5px);
+          border-radius: 20px;
+          display: center;
+          align-items: center;
+          justify-content: center;
+          transition: 0.7s;
+
+
+ }
+
+.h {
+    display: inline-block;
+    width: 80px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+#txt,
+.number {
+    margin-bottom: 10px;
+    border-radius:100px;
+}
+
+.submit {
+    padding: 8px 16px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #006f9e;
+
+}
+
+.btn1 {
+    padding: 5px 5px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.btn1:hover {
+    background-color: #006f9e;
+} 
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.btn-back {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.btn-back:hover {
+    background-color: #006f9e;
+}
+.btn-delete, .btn-update {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+
+.btn-delete:hover, .btn-update:hover {
+    background-color: #006f9e;
+}
+*/
